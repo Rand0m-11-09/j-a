@@ -28,6 +28,7 @@ body {
     border-bottom : 150px solid rgb(243, 243, 243);
     border-left : 87px solid transparent;
     transform: rotate(90deg);
+    cursor: pointer;
 }
 .hehe-container {
     height: 100vh;
